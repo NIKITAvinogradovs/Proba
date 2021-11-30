@@ -1,0 +1,7 @@
+def countZeros(Z):
+  return summa.count("0")
+summa = input("Ievadi tekstu: ")
+rez = countZeros(summa)
+if rez < 1:
+  print ("Teksta nav nulles")
+print(rez)
